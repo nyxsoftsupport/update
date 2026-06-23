@@ -1,4 +1,5 @@
 EU_070=sweet_hemisphere
+AUSTRALIA_030=test
 EU_120=hopefull_head_quarters
 EU_180=dependable_productive
 EU_020=successful_honor
@@ -22,3 +23,6 @@ EU_030=honorable_challanger
 USA_120=sleepy_maneuver
 EU_060=elegant_satelite
 ASIA_040=humble_biosphere
+USA_100=enthusiastic_perihelion
+EU_190=wonderful_frontier
+USA_130=objective_ignition
