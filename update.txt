@@ -6,7 +6,6 @@ AUS_010=rational_aurora_borealis
 AUS_020=amazing_fuel
 AUS_030=musing_transmissions
 AUS_040=dynamic_session
-AUSTRALIA_030=test
 EU_010=artistic_launch_pad
 EU_020=successful_honor
 EU_030=honorable_challanger
