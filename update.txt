@@ -68,3 +68,5 @@ EU_310=mystifying_illumination
 ASIA_070=spirited_horoscope
 USA_200=jovial_global
 EU_300=logical_magnetic
+EU_220=admiring_quest
+USA_260=insightful_astrophysics
