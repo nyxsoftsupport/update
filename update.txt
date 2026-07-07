@@ -74,3 +74,4 @@ USA_260=insightful_astrophysics
 USA_330=fascinated_polestar
 USA_300=modest_support
 EU_260=valiant_binary
+USA_230=loyal_path
