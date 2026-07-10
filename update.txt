@@ -78,3 +78,5 @@ USA_230=loyal_path
 EU_280=infallible_edmond
 USA_370=enthusiastic_
 ASIA_090=studios_experiment
+EU_350=upbeat_shield
+USA_320=balanced_space
