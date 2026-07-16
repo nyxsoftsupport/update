@@ -1,3 +1,5 @@
 EU_050=modest_rotation
 USA_130=splendid_fossil
+EU_140=noble_view
 EU_210=attentive_objective
+USA_230=spirited_plasma
