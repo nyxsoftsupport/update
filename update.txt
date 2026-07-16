@@ -1,7 +1,10 @@
 USA_080=honorable_
 EU_050=modest_rotation
+AUS_040=insightful_historic
 ASIA_010=objective_mesosphere
+USA_120=scholarly_lunar
 USA_130=splendid_fossil
 EU_140=noble_view
+EU_150=confident_composition
 EU_210=attentive_objective
 USA_230=spirited_plasma
