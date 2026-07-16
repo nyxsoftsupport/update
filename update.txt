@@ -5,6 +5,7 @@ USA_060=festive_aerospace
 ASIA_010=objective_mesosphere
 USA_120=scholarly_lunar
 USA_130=splendid_fossil
+ASIA_050=skillful_unique
 EU_140=noble_view
 EU_150=confident_composition
 EU_250=marvelous_orbit
