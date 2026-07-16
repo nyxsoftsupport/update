@@ -7,5 +7,6 @@ USA_120=scholarly_lunar
 USA_130=splendid_fossil
 EU_140=noble_view
 EU_150=confident_composition
+USA_050=thriving_kinetic
 EU_210=attentive_objective
 USA_230=spirited_plasma
