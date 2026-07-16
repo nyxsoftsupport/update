@@ -1,1 +1,3 @@
 EU_050=modest_rotation
+USA_130=splendid_fossil
+EU_210=attentive_objective
