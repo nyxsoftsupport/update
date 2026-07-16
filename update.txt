@@ -1,4 +1,6 @@
+USA_080=honorable_
 EU_050=modest_rotation
+ASIA_010=objective_mesosphere
 USA_130=splendid_fossil
 EU_140=noble_view
 EU_210=attentive_objective
