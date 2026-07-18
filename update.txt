@@ -16,6 +16,7 @@ USA_130=splendid_fossil
 ASIA_050=skillful_unique
 EU_140=noble_view
 EU_080=eloquent_variation
+USA_090=enthusiastic_maneuver
 EU_150=confident_composition
 EU_250=marvelous_orbit
 AUS_050=faithful_ignition
