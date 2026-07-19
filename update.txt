@@ -24,4 +24,6 @@ EU_240=reverent_elliptical
 USA_050=thriving_kinetic
 EU_210=attentive_objective
 USA_210=daring_spacecraft
+EU_220=lucid_carbon
 USA_230=spirited_plasma
+USA_170=responsive_global
