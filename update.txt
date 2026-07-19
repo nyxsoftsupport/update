@@ -27,3 +27,4 @@ USA_210=daring_spacecraft
 EU_220=lucid_carbon
 USA_230=spirited_plasma
 USA_170=responsive_global
+EU_040=heuristic_size
