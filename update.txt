@@ -1,3 +1,5 @@
 # Branch: sc-alpha-4.9.0
 EU_120=brilliant_dust
+USA_180=insightful_flare
+AUS_020=patient_absorption
 EU_040=capable_twinkle
