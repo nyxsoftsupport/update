@@ -1,5 +1,7 @@
 # Branch: sc-alpha-4.9.0
 EU_120=brilliant_dust
+EU_020=compassionate_asteroid
 USA_180=insightful_flare
 AUS_020=patient_absorption
+USA_020=nifty_intergalactic
 EU_040=capable_twinkle
