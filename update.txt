@@ -1,2 +1,3 @@
 # Branch: sc-alpha-4.9.0
+EU_120=brilliant_dust
 EU_040=capable_twinkle
